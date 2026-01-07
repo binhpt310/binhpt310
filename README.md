@@ -1,4 +1,5 @@
 [Official] Notice: KCT Mainnet Hardfork and Migration to Polygon (PoS)
+
 Hello, this is the Konnect Team.
 
 To facilitate a significant expansion of the KCT ecosystem and revitalize our core business operations, we are officially proceeding with a Mainnet Hardfork and Migration. KCT will transition from the existing Ethereum (ERC-20) network to the Polygon (MATIC) network.
@@ -36,5 +37,6 @@ Automatic Conversion: Assets held within collaborating exchanges (Gate.io, HTX, 
 Risk Mitigation: To prevent potential loss of funds, please refrain from any KCT transfers during the migration window until an official "Stability Confirmed" notice is issued.
 
 Our Commitment: The Konnect Team is dedicated to building a real-economy blockchain ecosystem centered on the KINC platform. We appreciate your continued trust as we scale alongside our global partners.
+
 
 January 7, 2026 The Konnect Project Team
