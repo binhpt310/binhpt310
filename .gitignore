@@ -1,1 +1,6 @@
 github-repositories-summary.md
+
+# Local Markdown preview artifacts
+README.html
+README_files/
+.playwright-cli/
