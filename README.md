@@ -108,8 +108,8 @@ Currently, I serve as **Chief Technology Officer at VAYLA Technology**, leading 
 
 <p>
   <img src="https://img.shields.io/badge/React-Frontend-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-Full%20Stack-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js official icon">
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js official icon">
+  <img src="https://img.shields.io/badge/Next.js-Full%20Stack-000000?style=flat-square&label=Next.js&logo=nextdotjs&logoColor=white" alt="Next.js official icon">
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&label=Node.js&logo=nodedotjs&logoColor=white" alt="Node.js official icon">
   <img src="https://img.shields.io/badge/Express-REST%20APIs-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Android-Mobile-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
