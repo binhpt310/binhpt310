@@ -29,7 +29,7 @@ Currently, I serve as **Chief Technology Officer at VAYLA Technology**, leading 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Public coding animation" width="600">
 </p>
 
-<p align="center"><sub>Research - build - deploy - lead">GIPHY</a></sub></p>
+<p align="center"><sub>Research - build - deploy - lead</a></sub></p>
 
 ## Expertise at a glance
 
